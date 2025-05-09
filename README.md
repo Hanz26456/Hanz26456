@@ -65,27 +65,12 @@
 
 ---
 
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Java      10 hrs 42 mins  ██████████████░░░░░░░░░░░   58.27%
-HTML      4 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   24.71%
-CSS       1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.78%
-PHP       1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   05.93%
-Laravel   15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31%
-Kotlin    1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.78%
-Flutter   1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.78%
-
-
-### Play With Me
-
+### 🕹️ Play With Me
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/pacman-contribution-graph.svg">
 </picture>
 
 <img src="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/snake.svg" alt="Snake animation" />
-
 
