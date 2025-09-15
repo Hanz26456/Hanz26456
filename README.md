@@ -108,8 +108,24 @@ I'm a passionate software developer and computer science student with a strong i
 ---
 
 ## 🎮 Fun Corner
+
+### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+### 👻 PacMan Contribution Animation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/github-user-contribution.svg" alt="PacMan eating contributions"/>
+</div>
+
+### 🌊 Wave Animation
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
 </div>
 
 ---
@@ -128,6 +144,10 @@ I'm always interested in connecting with fellow developers and discussing new op
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/Hanz26456">Muhammad Farhan Maulana</a></i>
