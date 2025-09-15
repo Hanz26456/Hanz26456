@@ -120,7 +120,12 @@ I'm a passionate software developer and computer science student with a strong i
 
 ### 👻 PacMan Contribution Animation
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hanz26456/Hanz26456/output/github-user-contribution.svg" alt="PacMan eating contributions"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/assets/demo/demo.svg" alt="GitHub Streak Stats Demo"/>
+</div>
+
+### 🎮 Alternative PacMan Style
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanz26456&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9ca24&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ### 🌊 Wave Animation
