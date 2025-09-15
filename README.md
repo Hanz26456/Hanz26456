@@ -118,14 +118,24 @@ I'm a passionate software developer and computer science student with a strong i
   </picture>
 </div>
 
-### 👻 PacMan Contribution Animation
+### 📊 3D Contribution Calendar
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/assets/demo/demo.svg" alt="GitHub Streak Stats Demo"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanz26456&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8d847&area=true&hide_border=true&theme=github-compact" alt="3D GitHub Activity Graph"/>
 </div>
 
-### 🎮 Alternative PacMan Style
+### 🔥 GitHub Streak with Fire Animation
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanz26456&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9ca24&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanz26456&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak Stats"/>
+</div>
+
+### ⚡ Dynamic Profile Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanz26456&theme=github_dark" alt="GitHub Profile Summary Cards"/>
+</div>
+
+### 🌟 Animated Typing SVG
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub!;I'm+a+Software+Developer;Building+Amazing+Projects!" alt="Typing SVG"/>
 </div>
 
 ### 🌊 Wave Animation
