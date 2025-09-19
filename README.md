@@ -38,7 +38,7 @@ Saya seorang pengembang perangkat lunak dan mahasiswa ilmu komputer yang penuh s
 👯 Ingin berkolaborasi dalam proyek open source
 
 💬 Tanyakan kepada saya tentang pengembangan web, aplikasi mobile, atau teknologi blockchain
-## 💼 Professional Skills
+## 💼 Skills
 
 ### 🚀 Programming Languages
 <p align="left">
