@@ -1,4 +1,4 @@
-a# Muhammad Farhan Maulana
+ Muhammad Farhan Maulana
 ## Software Developer | Computer Science Student 👨‍💻
 
 ![Farhan Maulana](img/github-header-image.png)
